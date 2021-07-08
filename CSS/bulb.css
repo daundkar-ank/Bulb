@@ -1,0 +1,40 @@
+*{
+    background-color: lightblue;
+}
+div{
+    background-color: white;
+  margin: 10%;
+  margin-right: 25%;
+  margin-left: 25%;
+  border: coral;
+  border-width: 50px;
+  border-style: ridge;
+  padding: 30px;
+  padding-left: 8%;
+}
+button{
+    background-color: lightcyan;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    border: 10px 40px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-left: -30px;
+}
+button:hover{
+    background-color: palevioletred;
+    color: yellow;
+}
+#myImage{
+    background-color: white;
+    padding-left: 40px;
+    padding-top: 20px;
+}
+p{
+    text-align: right;
+    padding-top: 60px;
+    padding-right: 20px;
+    padding-bottom: 0%;
+    font-size: x-large;
+}
